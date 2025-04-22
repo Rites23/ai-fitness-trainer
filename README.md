@@ -2,6 +2,8 @@
 
 ![Screenshot 2025-04-21 at 13 48 14](https://github.com/user-attachments/assets/c4c1839c-ca34-4a2d-bfff-f868b51be0d2)
 
+[![Vercel](https://vercelbadge.vercel.app/api/Rites23/ai-fitness-trainer)](https://ai-fitness-trainer-ten.vercel.app/)
+
 [🚀 Live Demo – AI Fitness Trainer](https://ai-fitness-trainer-ten.vercel.app)
 
 ## Highlights:
