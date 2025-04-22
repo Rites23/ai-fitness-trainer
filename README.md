@@ -4,7 +4,7 @@
 
 [![Vercel](https://vercelbadge.vercel.app/api/Rites23/ai-fitness-trainer)](https://ai-fitness-trainer-ten.vercel.app/)
 
-[🚀 Live Demo – AI Fitness Trainer](https://ai-fitness-trainer-ten.vercel.app)
+[💪 🏋️ AI Fitness Trainer App](https://ai-fitness-trainer-ten.vercel.app)
 
 ## Highlights:
 
